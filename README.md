@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itshzlnust
 - 👀 I’m interested in Bio-Medical
-- 🌱 I’m currently learning Arduino
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on My Lover
-- 📫 How to reach me ...
+- 📫 How to reach me linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
