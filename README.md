@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently as a college student<br>👯 I’m looking to collaborate on teams<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Typescript and React , Next<br>💬 Ask me about my life <br>⚡ Fun fact i like programming<br>
+🔭 I’m currently as a college student<br>👯 I’m looking to collaborate on teams<br>🤝 I’m looking for help with my lover<br>🌱 I’m currently learning Typescript and React , Next<br>💬 Ask me about my life <br>⚡ Fun fact i like programming<br>
 
 
 ## 🌐 Socials:
